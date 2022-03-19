@@ -11,5 +11,7 @@
 	* pynput
 	* timeit
 
+* Install them using `pip3 install time pynput timeit`
+
 * Open up your Discord to the channel you want and then just run the script in the background with `python3 macro.py`
 
