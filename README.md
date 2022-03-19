@@ -1,6 +1,6 @@
 **Instructions**
 
-* If you're cool and have wget you can just do `wget -- url her -- `
+* If you're cool and have wget you can just do `wget https://github.com/alekseyvalouev/DankMemerMacro/blob/main/macro.py`
 
 * Otherwise you can clone the repo or just download the file
 
